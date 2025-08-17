@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+google-generativeai
+pandas
+openpyxl
+matplotlib
+seaborn
+requests
+beautifulsoup4
+lxml
